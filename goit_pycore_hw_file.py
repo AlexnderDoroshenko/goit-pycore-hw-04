@@ -147,8 +147,3 @@ def test_get_cats_info():
 
 # Uncomment the line below to run the test function
 # test_get_cats_info()
-
-# usage example 
-# cats_info = get_cats_info("path/to/cats_file.txt")
-# print(cats_info)
-

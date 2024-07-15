@@ -51,7 +51,7 @@ python hw03.py /шлях/до/вашої/директорії
 
 """
 import sys
-from pathlib import Path, PurePath
+from pathlib import Path
 from colorama import Fore, Style
 from io import StringIO
 from pathlib import Path

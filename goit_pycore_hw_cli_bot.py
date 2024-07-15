@@ -160,21 +160,3 @@ def test_main():
             
 if __name__ == "__main__":
     main()
-    
-# Usage example:
-
-# Welcome to the assistant bot!
-# Enter a command: hello
-# bot answer: How can I help you?
-# Enter a command: add John 123456
-# bot answer: Contact added.
-# Enter a command: phone John
-# bot answer: 123456
-# Enter a command: change John 098765
-# bot answer: Contact updated.
-# Enter a command: phone John
-# bot answer: 098765
-# Enter a command: all
-# bot answer: {'John': '098765'}
-# Enter a command: close, exit, quit, q
-# bot answer:  Good bye!
